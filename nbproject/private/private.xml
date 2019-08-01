@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/src/java/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/src/java/servlets/MuseumsServlet.java</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/src/java/servlets/LogoutServlet.java</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/web/Register.jsp</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/web/MuseumDetails.jsp</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/src/java/servlets/ServletBase.java</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/src/java/dto/UserIdentity.java</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/src/java/dao/MuseumRepository.java</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/src/java/dao/HashUtil.java</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/src/java/entity/User.java</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/web/LoginError.jsp</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/src/java/entity/Museum.java</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/src/java/hibernate.reveng.xml</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/web/parts/header.jsp</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/src/java/servlets/RegisterServlet.java</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/web/MuseumsList.jsp</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/web/Login.jsp</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/src/java/dao/HibernateUtil.java</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/web/RegisterSuccess.jsp</file>
+            <file>file:/C:/Users/Muhamed/Documents/NetBeansProjects/MuseumsIS/src/java/servlets/MuseumDetails.java</file>
+        </group>
+    </open-files>
+</project-private>
